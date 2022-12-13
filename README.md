@@ -1,2 +1,2 @@
 # CPlusPlus-Bin
-the c++ learning curve is crazy man
+here I take my crappy java files and make them 3x more efficient lol
